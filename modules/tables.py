@@ -1,1 +1,0 @@
-# Handle table status
